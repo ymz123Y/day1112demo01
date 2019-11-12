@@ -1,5 +1,0 @@
-"""
-
-"""
-print("aaa")
-print("bbbb")
